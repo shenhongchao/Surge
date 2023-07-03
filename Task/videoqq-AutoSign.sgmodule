@@ -7,4 +7,4 @@
 # 更新时间：2023-04-14
 
 [Script]
-腾讯视频签到任务 = type=cron,cronexp=0 5 * * *,script-path=https://raw.githubusercontent.com/ClydeTime/Surge/main/Script/Task/videoqq.js,timeout=15,wake-system=1
+腾讯视频签到任务 = type=cron,cronexp=0 5 15 * *,script-path=https://raw.githubusercontent.com/ClydeTime/Surge/main/Script/Task/videoqq.js,timeout=15,wake-system=1
